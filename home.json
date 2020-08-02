@@ -21639,5 +21639,14 @@
         }
       ]
     }
+  ],
+  "slides": [
+    {
+      "id": 1,
+      "title": "Final Season Available Now",
+      "type": "4",
+      "image": "https://img.youtube.com/vi/Wyw6JCWOx-8/maxresdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Wyw6JCWOx-8"
+    }
   ]
 }
