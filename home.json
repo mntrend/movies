@@ -2,116 +2,866 @@
   "genres": [    {
       "id": 1,
       "title": "Requested Movies",
-         "items": [
+       "items": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "cMN_INm9RKRWpWszCLoHCtTf7Zc",
-      "id": "UExQMlVodHZCeS1DMG9faGw0U1M3aHZneTJIRHJ3UlVwNS41NkI0NEY2RDEwNTU3Q0M2"
+      "etag": "2TXC1qWM4iXxZRVtKGus0B77nB8",
+      "id": "UExQMlVodHZCeS1DMG9faGw0U1M3aHZneTJIRHJ3UlVwNS41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2020-08-04T14:31:50Z",
+        "channelId": "UCmLHpf-wWyL2-Mpg3n_febg",
+        "title": "Nobody Knows 1 English Subtitles Full Episode",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VpioGGbpop0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VpioGGbpop0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VpioGGbpop0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VpioGGbpop0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Saurav Chaudhary",
+        "playlistId": "PLP2UhtvBy-C0o_hl4SS7hvgy2HDrwRUp5",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "VpioGGbpop0"
+        }
+      }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "VsRXx4pNUD3wwl6tr-B8SXnbNGo",
-      "id": "UExQMlVodHZCeS1DMG9faGw0U1M3aHZneTJIRHJ3UlVwNS4yODlGNEE0NkRGMEEzMEQy"
+      "etag": "BWPHoIPKQjmoCdaEg1ZqVpkfZXA",
+      "id": "UExQMlVodHZCeS1DMG9faGw0U1M3aHZneTJIRHJ3UlVwNS4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2020-08-04T14:32:03Z",
+        "channelId": "UCmLHpf-wWyL2-Mpg3n_febg",
+        "title": "Racing Hearts 2017💘Romance💘English Movie",
+        "description": "#HollywoodMovie",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ECX4bsPknxg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ECX4bsPknxg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ECX4bsPknxg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ECX4bsPknxg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Saurav Chaudhary",
+        "playlistId": "PLP2UhtvBy-C0o_hl4SS7hvgy2HDrwRUp5",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ECX4bsPknxg"
+        }
+      }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "IQ0uG-jwikgfZNXbDvrT1CgJirM",
-      "id": "UExQMlVodHZCeS1DMG9faGw0U1M3aHZneTJIRHJ3UlVwNS4wMTcyMDhGQUE4NTIzM0Y5"
+      "etag": "KQhU5-1V6Hb3BglzPm6OSVJJiLs",
+      "id": "UExQMlVodHZCeS1DMG9faGw0U1M3aHZneTJIRHJ3UlVwNS4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2020-08-04T14:32:40Z",
+        "channelId": "UCmLHpf-wWyL2-Mpg3n_febg",
+        "title": "Second Chance - Turkish Movie Romantic 💖😍 (English Subtitles)",
+        "description": "Subscribe\nhttps://www.youtube.com/channel/UCZeAZ0e3UJw2yfA5KmYJ69A?sub_confirmation=1\n\nClick here to watch other movies with English subtitles;\nhttps://www.youtube.com/playlist?list=PLc2ZWUMfL3ughemAihsXxXzYhk5XjXuHI\n\nThe paths of two lonely people intersect opposite each other. Yasemin is a very beautiful woman, one of whom is a mathematics teacher, and the other is the charismatic gourmet, Cemal Et, who owns the restaurant. Cemal is unruly, outgoing, diminutive, a man trying to get rid of his past. Jasmine is a timid, protectionist woman with thick shells who tries to reap the wounds of a wrong choice she made in the past, and decides by mathematical calculations. In normal life, these two people will not even look at each other's face, first encounter with fights, then turn into love, and then will drown us sadness. What the two have in common is that they both need a second chance. When we go deep into both, we see that this is not an easy love.\n\n#SecondChance #TurkishMovie #Movie",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lsLlkxS4i8o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lsLlkxS4i8o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lsLlkxS4i8o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lsLlkxS4i8o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lsLlkxS4i8o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Saurav Chaudhary",
+        "playlistId": "PLP2UhtvBy-C0o_hl4SS7hvgy2HDrwRUp5",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "lsLlkxS4i8o"
+        }
+      }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "ZrKC5SrTcvFhpoGivmHbr_RSXZE",
-      "id": "UExQMlVodHZCeS1DMG9faGw0U1M3aHZneTJIRHJ3UlVwNS41MjE1MkI0OTQ2QzJGNzNG"
+      "etag": "4e9l31DG2gMGMdrhewbIe44QbLg",
+      "id": "UExQMlVodHZCeS1DMG9faGw0U1M3aHZneTJIRHJ3UlVwNS41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2020-08-04T14:32:55Z",
+        "channelId": "UCmLHpf-wWyL2-Mpg3n_febg",
+        "title": "Friendship often ends in love 2020 - Good Hallmark Romantic Movies 2020",
+        "description": "Friendship often ends in love 2020 - Good Hallmark Romantic Movies 2020\n#123moviesfreenow",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QnVG1OqtRjs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QnVG1OqtRjs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QnVG1OqtRjs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QnVG1OqtRjs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QnVG1OqtRjs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Saurav Chaudhary",
+        "playlistId": "PLP2UhtvBy-C0o_hl4SS7hvgy2HDrwRUp5",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "QnVG1OqtRjs"
+        }
+      }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "41Gg8_St6w9rt5W8FGS0GsUkDik",
-      "id": "UExQMlVodHZCeS1DMG9faGw0U1M3aHZneTJIRHJ3UlVwNS4wOTA3OTZBNzVEMTUzOTMy"
+      "etag": "T65PvMDPzTYumdTeZ2TdD-1Ddu4",
+      "id": "UExQMlVodHZCeS1DMG9faGw0U1M3aHZneTJIRHJ3UlVwNS4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2020-08-04T14:33:05Z",
+        "channelId": "UCmLHpf-wWyL2-Mpg3n_febg",
+        "title": "Can't Buy Me Love 2020 - New Love Hallmark Movies 2020 - Romance Hallmark Movies 2020",
+        "description": "Can't Buy Me Love 2020 - New Love Hallmark Movies 2020 - Romance Hallmark Movies 2020",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WWnMxKltNJY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WWnMxKltNJY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WWnMxKltNJY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Saurav Chaudhary",
+        "playlistId": "PLP2UhtvBy-C0o_hl4SS7hvgy2HDrwRUp5",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "WWnMxKltNJY"
+        }
+      }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "_O0A5GJ36wcEK3UEZRwHEnUsc2Y",
-      "id": "UExQMlVodHZCeS1DMG9faGw0U1M3aHZneTJIRHJ3UlVwNS4xMkVGQjNCMUM1N0RFNEUx"
+      "etag": "2EZThwI50MIhmiDqjfCm8mblo_U",
+      "id": "UExQMlVodHZCeS1DMG9faGw0U1M3aHZneTJIRHJ3UlVwNS4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2020-08-04T14:43:03Z",
+        "channelId": "UCmLHpf-wWyL2-Mpg3n_febg",
+        "title": "FAST AND FURIOUS 9 | originaL fiLm",
+        "description": "THANK YOU FOR VISITING THIS DICHANNEL ~~ LET'S SPIRIT AND FORWARD ~~ DO NOT FORGET SUPPORT ~~~~ 👉 LIKE ~~ 👉 COMENT ~~ 👉 SHARED ~~ 👉 SUBSCRIBE ~~~~ EnjOy 😉 ~~~~\n\nInstagram 👉 https: //www.instagram.com/Ricoadhiyatma/\n\n#fastandfuriuos",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tt-q29r6QRQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tt-q29r6QRQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tt-q29r6QRQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Saurav Chaudhary",
+        "playlistId": "PLP2UhtvBy-C0o_hl4SS7hvgy2HDrwRUp5",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "tt-q29r6QRQ"
+        }
+      }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "4-DyJanwIOjUkM3fq2GdOT8Kojk",
-      "id": "UExQMlVodHZCeS1DMG9faGw0U1M3aHZneTJIRHJ3UlVwNS41MzJCQjBCNDIyRkJDN0VD"
+      "etag": "E6LZrtFWuhhGcMzD_uoCJewWBro",
+      "id": "UExQMlVodHZCeS1DMG9faGw0U1M3aHZneTJIRHJ3UlVwNS41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2020-08-04T14:44:52Z",
+        "channelId": "UCmLHpf-wWyL2-Mpg3n_febg",
+        "title": "AVENGERS INFINITY WAR - FULL MOVIE",
+        "description": "Complete Marvel Avengers Infinity war all actions, scenes and characters.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iIqP7643M3I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iIqP7643M3I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iIqP7643M3I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Saurav Chaudhary",
+        "playlistId": "PLP2UhtvBy-C0o_hl4SS7hvgy2HDrwRUp5",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "iIqP7643M3I"
+        }
+      }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "UG2ap5KAbXblzb97jyv3gkONuaM",
-      "id": "UExQMlVodHZCeS1DMG9faGw0U1M3aHZneTJIRHJ3UlVwNS5DQUNERDQ2NkIzRUQxNTY1"
+      "etag": "uUfgNRDbCzvNoetGMJ_4dWnGpC8",
+      "id": "UExQMlVodHZCeS1DMG9faGw0U1M3aHZneTJIRHJ3UlVwNS45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2020-08-04T14:45:33Z",
+        "channelId": "UCmLHpf-wWyL2-Mpg3n_febg",
+        "title": "MIDNIGHT SUN dreams come true at night (bella thorne and patrick schwarzenegger)",
+        "description": "The romantic drama film in the Midnight Sun movie features Katie Price (played by Bella Thorne) who has a rare genetic disease, Xeroderma pigmentosum or XP which makes it unable to be exposed to sunlight. Katie has been living at home only with her father, Jack Price (Rob Riggle) while her mother died when she was a child due to a car accident. Everyday activities of this 17-year-old girl home-schooling, playing the guitar, and the most awaited thing is the passing of Charlie (Patrick Schwarzenegger), a boy he likes. For a dozen years he watched Charlie from his window. Until one day on the night of his gradations, he wanted to play guitar at the station at night and accidentally Charlie passed the station so he met with Katie. That meeting began the love story between the two of them. Katie and Charlie who fell in love certainly experienced various problems, especially Katie did not immediately admit that he was suffering from XP. Will they stay together? This film is an official adaptation of a Japanese film called Song To The Sun (\"Taiyou No Uta\") with Yui as the main character. Released in 2006, the story of this romantic drama has a lot of fans, moreover the story of the romance of Japanese students has its own characteristics that when shown on the big screen do not feel out of place. Unfortunately this adaptation seems less attractive among American audiences. What's certainly interesting about this drama Song To The Sun is that Yui is indeed a singer, and it's not surprising that the main character is very fond of music and good at singing. The Midnight Sun movie did not adapt completely, of course changes were made like Charlie who was told as a swimming athlete, not a surfer like in the original drama. Some romantic stories have also been reformed and adapted to the circumstances of American teenagers. Midnight Sun movie is actually not as bad as a cliché romantic story in general, because there are some meaningful things to take as lessons in life, especially this film with the theme of love and life survival. The music and songs that are sung are also not boring, although when the song is finished singing the audience will forget the lyrics. In addition to the love story between Katie and Charlie, the child's father relationship is also very highlighted here. And friendship with Morgan (played by Quinn Shephard) is fairly harmonious, even too harmonious.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8e_Sugzk8D4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8e_Sugzk8D4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8e_Sugzk8D4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Saurav Chaudhary",
+        "playlistId": "PLP2UhtvBy-C0o_hl4SS7hvgy2HDrwRUp5",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "8e_Sugzk8D4"
+        }
+      }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "5pbmHm2yQk3mqUqp4vAUM5gZN3I",
-      "id": "UExQMlVodHZCeS1DMG9faGw0U1M3aHZneTJIRHJ3UlVwNS45NDk1REZENzhEMzU5MDQz"
+      "etag": "pL2RitQt-1L3BRKPfZGougkSz4U",
+      "id": "UExQMlVodHZCeS1DMG9faGw0U1M3aHZneTJIRHJ3UlVwNS5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2020-08-04T14:46:41Z",
+        "channelId": "UCmLHpf-wWyL2-Mpg3n_febg",
+        "title": "The Kissing Booth 2 Full Movie 2020 || Movie Romantic Comedy",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YVd7fgDwyA4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YVd7fgDwyA4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YVd7fgDwyA4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YVd7fgDwyA4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Saurav Chaudhary",
+        "playlistId": "PLP2UhtvBy-C0o_hl4SS7hvgy2HDrwRUp5",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "YVd7fgDwyA4"
+        }
+      }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "8P4JjFvjjz5LZNtmPzrVzdFAofM",
-      "id": "UExQMlVodHZCeS1DMG9faGw0U1M3aHZneTJIRHJ3UlVwNS5GNjNDRDREMDQxOThCMDQ2"
+      "etag": "IkuLxfyEW485AOrMPbe9db9VU_I",
+      "id": "UExQMlVodHZCeS1DMG9faGw0U1M3aHZneTJIRHJ3UlVwNS40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2020-08-04T14:47:45Z",
+        "channelId": "UCmLHpf-wWyL2-Mpg3n_febg",
+        "title": "NIGHT OF THE TWISTERS — Action, Family, Drama, Disaster Movie // Full Movie in English",
+        "description": "Night of the Twisters - Action, Drama, Family (DVDRip)\n\nA peaceful Nebraska town on a sweltering summer day becomes the setting for an unprecedented disaster when it is struck by a deadly series of strong tornados.\nThe story is told from the viewpoint of a 12-year-old boy who is forced to overcome his own terror to save the lives of friends and family in the horrifying aftermath.\n\nCast:\nDevon Sawa, Amos Crawley, John Schneider\n\nUSA, Canada `96",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PIjHM5Q3Mfc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PIjHM5Q3Mfc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PIjHM5Q3Mfc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PIjHM5Q3Mfc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Saurav Chaudhary",
+        "playlistId": "PLP2UhtvBy-C0o_hl4SS7hvgy2HDrwRUp5",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "PIjHM5Q3Mfc"
+        }
+      }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "oq4NUvWY1VvbDbLySJbuBp8_DrQ",
-      "id": "UExQMlVodHZCeS1DMG9faGw0U1M3aHZneTJIRHJ3UlVwNS40NzZCMERDMjVEN0RFRThB"
+      "etag": "3OIgFha3LHviaQtAjdtHUPhij78",
+      "id": "UExQMlVodHZCeS1DMG9faGw0U1M3aHZneTJIRHJ3UlVwNS5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2020-08-04T14:47:58Z",
+        "channelId": "UCmLHpf-wWyL2-Mpg3n_febg",
+        "title": "Storm Seekers: Hunting Hurricanes - Full Movie",
+        "description": "Starring: Daryl Hannah, Dylan Neal & Barclay Hope\n\nStorm Seekers is a fast paced, visually arresting story of survival against nature at its most awesome and destructive. Seven-year-old Leah Kaplan saw her parents snatched from her forever by a savage hurricane and the trauma of that catastrophe lingers into her adult life. She shuns relationships through a fear of losing loved ones and she’s grown utterly focused on her work. Leah is a meteorologist and flight director onboard an aircraft which analyses extreme weather conditions and hunts down hurricanes in order to offer storm warnings. It’s a dangerous job but Leah accepts the risks. When the authorities order her to conduct a flight with Ryan Stewart, a handsome but abrasive journalist, she’s told that the gale she’s investigating is a mild one. But in truth, one of the most powerful storms in America’s history awaits…",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/M2bdx_hG1Oo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/M2bdx_hG1Oo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/M2bdx_hG1Oo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/M2bdx_hG1Oo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/M2bdx_hG1Oo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Saurav Chaudhary",
+        "playlistId": "PLP2UhtvBy-C0o_hl4SS7hvgy2HDrwRUp5",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "M2bdx_hG1Oo"
+        }
+      }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "V0wfxPmH_Led5fTi4PuOzB9GpyA",
-      "id": "UExQMlVodHZCeS1DMG9faGw0U1M3aHZneTJIRHJ3UlVwNS5EMEEwRUY5M0RDRTU3NDJC"
+      "etag": "Py80Jcq20W69Xrm3YRFKI0aWmJ0",
+      "id": "UExQMlVodHZCeS1DMG9faGw0U1M3aHZneTJIRHJ3UlVwNS45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2020-08-04T14:48:19Z",
+        "channelId": "UCmLHpf-wWyL2-Mpg3n_febg",
+        "title": "Crated (2020) | Full Movie [4K Ultra HD]",
+        "description": "We created this movie on a fairly large financial budget, we are choosing to allow people to watch it for free as we are passion driven and want as many people to see it as possible rather than for profit. We would forever appreciate a moment of your time to quickly SHARE the Film with as many people as you can! We are also open to any business related offers regarding our Feature Film, but most importantly we hope you enjoy!\n~ Kyle Godfrey\n\nCrated (2020) | Full Movie [4K Ultra HD] | ( Horror / Thriller Film )\n\nA group of six people mysteriously wake up in crates in the middle of nowhere. Their memory is somehow wiped from their minds with the exception of their names and the group is left to question who put them there, and why. They begin to assume that they are apart of some sick, twisted and sinister game. However, they soon realize they are apart of something much bigger.\n\nCrew\n\nDirected by: Kyle Godfrey\nCo-Directed by: David Ajibodu\nDirector of Photography: Alex Lieu\nEdited by: Kyle Godfrey & Alex Lieu\nScore by: Ashley D'souza \n\n( Extra Crew Credits on Screen ) \n\nCast\n\nKyle Godfrey as Alex\nJacqueline Stienstra as Julia\nKenrick Fenelus as James\nRebecca Tandon as Elyse\nKeanu Lee Nunes as Jake\nJayne Kamara as Brianna\n\nMy Instagram: https://www.instagram.com/stromedykyle/\n\nWatch the FULL Trailer Here ➤ https://www.youtube.com/watch?v=koCk3Q13TrU\n\nWatch Behind the Scenes Here ➤ https://www.youtube.com/watch?v=TD7YqmWan4A&t=659s\n\nFull Movie Website  ➤ https://www.primecapitol.co/\n\nPersonal Contact: KGodfrey10@Hotmail.com\nBusiness Contact: Primecapitol@primecapitol.co \n\n~ Prime Capitol Entertainment Ltd.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BD_pjm7xvgg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BD_pjm7xvgg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BD_pjm7xvgg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BD_pjm7xvgg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BD_pjm7xvgg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Saurav Chaudhary",
+        "playlistId": "PLP2UhtvBy-C0o_hl4SS7hvgy2HDrwRUp5",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "BD_pjm7xvgg"
+        }
+      }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "qlpEe2ls6w_gLLIPo5kmNcb0D0E",
-      "id": "UExQMlVodHZCeS1DMG9faGw0U1M3aHZneTJIRHJ3UlVwNS45ODRDNTg0QjA4NkFBNkQy"
+      "etag": "YIeaxY6yd6f-auuNFZFsFQ0tFeI",
+      "id": "UExQMlVodHZCeS1DMG9faGw0U1M3aHZneTJIRHJ3UlVwNS4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2020-08-04T14:48:33Z",
+        "channelId": "UCmLHpf-wWyL2-Mpg3n_febg",
+        "title": "40 Days and Nights Disaster Movie | Hollywood Movie | Natural Disaster| End Of The World-Upload 2017",
+        "description": "40 Days and Nights is a disaster film when sea levels on Earth begin to rise ominously due to a colossal tectonic shift, a microbiologist teams up with the US military to conserve life on the planet.\n\nDirected by : Peter Geiger\n\nProduced by :\nDavid Michael Latt\nDavid Rimawi\nPaul Bales\n\nWritten by : H. Perry Horton\n\nStars:\nMonica Keena as Tessa\nAlex Carter as John\nChristianna Carmine as Lynn\nEmily Sandifer as Maddie\nMitch Lerner as Freeman\n\nMusic by Chris Ridenhour\n\nHollywood Rocks brought to you many kinds of fashion collection here. Please Like, Share & subscribe us and stay Fashionable .To Subscribe click on this link_ https://www.youtube.com/channel/UCeFS...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uQaaYFrLwZQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uQaaYFrLwZQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uQaaYFrLwZQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uQaaYFrLwZQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Saurav Chaudhary",
+        "playlistId": "PLP2UhtvBy-C0o_hl4SS7hvgy2HDrwRUp5",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "uQaaYFrLwZQ"
+        }
+      }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "iK0Rq0GbYOSZi98VK8DGTJyM9yM",
-      "id": "UExQMlVodHZCeS1DMG9faGw0U1M3aHZneTJIRHJ3UlVwNS4zMDg5MkQ5MEVDMEM1NTg2"
+      "etag": "WSV0_2TstfBjJIjO5wgnd0M6Rbc",
+      "id": "UExQMlVodHZCeS1DMG9faGw0U1M3aHZneTJIRHJ3UlVwNS41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2020-08-04T14:49:00Z",
+        "channelId": "UCmLHpf-wWyL2-Mpg3n_febg",
+        "title": "TORNADO   THE LAST BLOOD   Full Length Vietnam War Movie   English   HD",
+        "description": "Hollywood War Movie",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QwbymSuPPXs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QwbymSuPPXs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QwbymSuPPXs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QwbymSuPPXs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Saurav Chaudhary",
+        "playlistId": "PLP2UhtvBy-C0o_hl4SS7hvgy2HDrwRUp5",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "QwbymSuPPXs"
+        }
+      }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "p98jliHxbDbskt3fUi7cmHXJJTI",
-      "id": "UExQMlVodHZCeS1DMG9faGw0U1M3aHZneTJIRHJ3UlVwNS41Mzk2QTAxMTkzNDk4MDhF"
+      "etag": "t_NoyBgG7cI_1N2-S60EngjghIE",
+      "id": "UExQMlVodHZCeS1DMG9faGw0U1M3aHZneTJIRHJ3UlVwNS5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2020-08-04T14:49:41Z",
+        "channelId": "UCmLHpf-wWyL2-Mpg3n_febg",
+        "title": "InuYasha Movie 1 English:Affections Touching Across Time",
+        "description": "InuYasha Movie 1 English:Affections Touching Across Time\nFull English\nPlease Subscribe ! :)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3a1ohVbEcSM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3a1ohVbEcSM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3a1ohVbEcSM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3a1ohVbEcSM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3a1ohVbEcSM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Saurav Chaudhary",
+        "playlistId": "PLP2UhtvBy-C0o_hl4SS7hvgy2HDrwRUp5",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "3a1ohVbEcSM"
+        }
+      }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "EN4cTIiQsrhFDMaqRjhCqEi9XxU",
-      "id": "UExQMlVodHZCeS1DMG9faGw0U1M3aHZneTJIRHJ3UlVwNS5EQUE1NTFDRjcwMDg0NEMz"
+      "etag": "hd3njljQD8wfQOcu1dukeOiwTSk",
+      "id": "UExQMlVodHZCeS1DMG9faGw0U1M3aHZneTJIRHJ3UlVwNS41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2020-08-04T14:53:33Z",
+        "channelId": "UCmLHpf-wWyL2-Mpg3n_febg",
+        "title": "Best War Action Movies 2020 | Hollywood Action Movies | Full Movie English #4",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/o9_MSpsfhdY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/o9_MSpsfhdY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/o9_MSpsfhdY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/o9_MSpsfhdY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/o9_MSpsfhdY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Saurav Chaudhary",
+        "playlistId": "PLP2UhtvBy-C0o_hl4SS7hvgy2HDrwRUp5",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "o9_MSpsfhdY"
+        }
+      }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "Gk2BOAA81rrNLL6EjPvEGSKoAaM",
-      "id": "UExQMlVodHZCeS1DMG9faGw0U1M3aHZneTJIRHJ3UlVwNS41QTY1Q0UxMTVCODczNThE"
+      "etag": "NNqLw8H2sJ_2bzX5Lw9-QTthKrE",
+      "id": "UExQMlVodHZCeS1DMG9faGw0U1M3aHZneTJIRHJ3UlVwNS4yMUQyQTQzMjRDNzMyQTMy",
+      "snippet": {
+        "publishedAt": "2020-08-04T14:53:41Z",
+        "channelId": "UCmLHpf-wWyL2-Mpg3n_febg",
+        "title": "The Great Train Robbery S01E01 720p HDTV ReEnc DeeJayAhmed",
+        "description": "pt 2 great train  robbery",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZR1bYRRRR4U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZR1bYRRRR4U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZR1bYRRRR4U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZR1bYRRRR4U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZR1bYRRRR4U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Saurav Chaudhary",
+        "playlistId": "PLP2UhtvBy-C0o_hl4SS7hvgy2HDrwRUp5",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ZR1bYRRRR4U"
+        }
+      }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "GOknhJkzYp4S36hxK9QCZLwUzOQ",
-      "id": "UExQMlVodHZCeS1DMG9faGw0U1M3aHZneTJIRHJ3UlVwNS4yMUQyQTQzMjRDNzMyQTMy"
+      "etag": "5avCqx1CgKaHqQZA6U4L30hqS34",
+      "id": "UExQMlVodHZCeS1DMG9faGw0U1M3aHZneTJIRHJ3UlVwNS45RTgxNDRBMzUwRjQ0MDhC",
+      "snippet": {
+        "publishedAt": "2020-08-04T14:54:13Z",
+        "channelId": "UCmLHpf-wWyL2-Mpg3n_febg",
+        "title": "Hollywood Movies | Hollywood Movies In Hindi Dubbed Full Action HD | Action Movies 2020",
+        "description": "Hollywood Movies | Hollywood Movies In Hindi Dubbed Full Action HD | Action Movies 2020\r\n\r\nSubscribe Now:- https://www.youtube.com/MyLifeMyChoice?sub_confirmation=1\r\n\r\nnew hollywood movies 2020\r\nnew hollywood hindi dubbed movies 2019\r\nhollywood movies 2019 full movies\r\nnew hindi movies\r\nnew action movies\r\nhollywood movie in hindi 2020\r\nnew hollywood movies in hindi\r\nhollywood movie in hindi dubbed\r\nnew hollywood movies 2020 full movie in hindi hd\r\nhollywood movies in hindi 2020\r\naction movies\r\nenglish movies\r\nhollywood film\r\naction movies hindi\r\nhindi movies 2020 full movie\r\nhollywood movie hindi\r\nnew hindi dubbed movies 2020\r\nnew movies\r\nhindi\r\nhollywood\r\nnew hollywood movie in hindi\r\nhollywood hindi dubbed movies\r\nhollywood movies 2019\r\naction movie\r\naction movies 2019\r\nlatest hollywood movie\r\nnew action movies 2019\r\nfull movies 2020\r\nlatest hollywood movies\r\nhindi dubbed hollywood movies\r\nhindi movie\r\nnew movie\r\nmovies\r\nhindi dubbed movie\r\nchinese movies in hindi dubbed\r\nhollywood hindi dubbed movie\r\nhorror movies in hindi\r\nhorror movies\r\nnew hindi dubbed movies\r\nfull hd movie\r\nnew hollywood movis\r\nnew hollywood hindi dubbed movies 2020\r\nnew hollywood action movie in hindi\r\nnew hindi movie 2020\r\nnew hindi movie\r\nhorror movie\r\nhollywood movies in hindi dubbed full action hd 2020\r\naction movies 2020\r\nfull movies 2019\r\nchinese movie in hindi\r\nhindi dubbed\r\nbollywood movies\r\nbest horror movies\r\nnew horror movies\r\nlatest movies\r\nhollywood hot movies\r\nchinese movies\r\nhorror movies 2020\r\nhorror movie 2020\r\nbest horror movies 2020\r\nhorror movies english\r\nhorror movie in hindi\r\nnew movies 2020\r\nenglish movie\r\nnew chinese movie\r\nbest action movies\r\nfull movies\r\nadventure movies\r\n\r\nhollywood movies\r\nhollywood movies in hindi dubbed full action hd\r\nnew hollywood movies 2020\r\nhollywood movies in hindi\r\nlatest hollywood movies\r\nnew action movies\r\nhollywood movie in hindi\r\nenglish movies\r\nhollywood movie\r\nnew movies\r\nhindi dubbed movies\r\naction movies\r\nhollywood action movie in hindi\r\nhollywood movie in hindi 2020\r\naction movies 2020\r\nhollywood action movies\r\nnew hollywood movies\r\nnew movies 2020\r\nsci fi movie\r\nnew horror movies\r\nhollywood movies 2020",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Y_snG76Ldvg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Y_snG76Ldvg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Y_snG76Ldvg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Y_snG76Ldvg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Y_snG76Ldvg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Saurav Chaudhary",
+        "playlistId": "PLP2UhtvBy-C0o_hl4SS7hvgy2HDrwRUp5",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Y_snG76Ldvg"
+        }
+      }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "XEzHGM98oZQQns3JrW0bujXRz-Q",
-      "id": "UExQMlVodHZCeS1DMG9faGw0U1M3aHZneTJIRHJ3UlVwNS45RTgxNDRBMzUwRjQ0MDhC"
+      "etag": "dNxLU5I9jNxBMujUztsCXTcQyVg",
+      "id": "UExQMlVodHZCeS1DMG9faGw0U1M3aHZneTJIRHJ3UlVwNS5ENDU4Q0M4RDExNzM1Mjcy",
+      "snippet": {
+        "publishedAt": "2020-08-04T14:56:58Z",
+        "channelId": "UCmLHpf-wWyL2-Mpg3n_febg",
+        "title": "Beauty And The Beast (2009) | English Fantasy Film | Estella Warren, Rhett Giles",
+        "description": "Watch #BeautyAndTheBest 2009 Australian fantasy movie.\nStarring Rhett Giles, Estella Warren, Victor Parascos, Vanessa Gray, Peter Cook, Tony Bellette, Damien Garvey, Anthony Kidd, Todd Levi, Tony Thurbon and Alex Kuzelicki.\nDirected by David Lister\nProduced by Dale G. Bradley\n#FantasyMovies  #HollywoodNewMovie  #HollywoodActionMovie  #EnglishFantasyMovie\n\nDon't forget to watch:- \n\nBest Of Bruce le Kung Fu Movies   : https://bit.ly/2OM9Whk\nHollywood Thriller Movies               : https://bit.ly/2RlNwF5\nEnglish Horror Movies                      : https://bit.ly/37YusCO\nEnglish Western Movies                   : https://bit.ly/2RlYCKq\nEnglish Action Mvoies                      : https://bit.ly/2sIaMD3\nHollywood Adventure Movies         : https://bit.ly/33PqMjF\nEnglish Classic Movies                    : https://bit.ly/34Z91zT\nBest Of Hollywood Action Movies : https://bit.ly/2rSW1wP\nHollywood Crime Movies                : https://bit.ly/2Ln55ky\n\nFor More Horror Movies Subcribe Our Channel ;-\n\nhttps://www.youtube.com/user/Cinecurryhollywood?sub_confirmation=1\n\nFor Videos Related To Food Subscribe \"Cinecurry Lifestyle\" Channel:\n\nhttps://www.youtube.com/user/Cinecurrylifestyle?sub_confirmation=1\n\nFor Kids Rhymes And Poems Subscribe To \"The Cine Kids\":\n\nhttps://www.youtube.com/user/TheCineKids?sub_confirmation=1\n\n~Follow us on Facebook~\n\nFor Cinecurry :-\nhttps://www.facebook.com/cinecurry/?ref=your_pages\n\nFor Lifestyle Videos :-\nhttps://www.facebook.com/CinecurryLifestyle/?ref=your_pages",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yp8PHybyHsc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yp8PHybyHsc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yp8PHybyHsc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yp8PHybyHsc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yp8PHybyHsc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Saurav Chaudhary",
+        "playlistId": "PLP2UhtvBy-C0o_hl4SS7hvgy2HDrwRUp5",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "yp8PHybyHsc"
+        }
+      }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "ZFZSA-zOkM6uuCRLmmNu6K22kQo",
-      "id": "UExQMlVodHZCeS1DMG9faGw0U1M3aHZneTJIRHJ3UlVwNS5ENDU4Q0M4RDExNzM1Mjcy"
+      "etag": "LGPLyaeum7IufZb4_3y7P7u-Hso",
+      "id": "UExQMlVodHZCeS1DMG9faGw0U1M3aHZneTJIRHJ3UlVwNS4yMDhBMkNBNjRDMjQxQTg1",
+      "snippet": {
+        "publishedAt": "2020-08-04T14:57:19Z",
+        "channelId": "UCmLHpf-wWyL2-Mpg3n_febg",
+        "title": "Alvin And The Chipmunks The Road Chip 2015 Full Movie HD",
+        "description": "Alvin and the Chipmunks: The Road Chip (2015) Full Movie HD - English Kids Movies - Comedy Movies - Cartoon Disney",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3cz-X0FJiiQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3cz-X0FJiiQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3cz-X0FJiiQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3cz-X0FJiiQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Saurav Chaudhary",
+        "playlistId": "PLP2UhtvBy-C0o_hl4SS7hvgy2HDrwRUp5",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "3cz-X0FJiiQ"
+        }
+      }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "7mjzCFKzKTtrTJ4Boanntkeieqs",
-      "id": "UExQMlVodHZCeS1DMG9faGw0U1M3aHZneTJIRHJ3UlVwNS4yMDhBMkNBNjRDMjQxQTg1"
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "ObR_GUt2SCUGxQO_v2tJo4iutGs",
-      "id": "UExQMlVodHZCeS1DMG9faGw0U1M3aHZneTJIRHJ3UlVwNS5GM0Q3M0MzMzY5NTJFNTdE"
+      "etag": "S6A2uL5yFO0P3oY3Sfd3rWmKUJk",
+      "id": "UExQMlVodHZCeS1DMG9faGw0U1M3aHZneTJIRHJ3UlVwNS5GM0Q3M0MzMzY5NTJFNTdE",
+      "snippet": {
+        "publishedAt": "2020-08-04T14:58:15Z",
+        "channelId": "UCmLHpf-wWyL2-Mpg3n_febg",
+        "title": "The Lion King Full Movie Official 2020 #disneythelionking #englishmovie2020 #thelionking",
+        "description": "When the subscriber count reach 10k there will be an exciting giveaway. So stay tuned and subscribe.\n\nKindly subscribe and stay tuned for more videos. channel link: https://www.youtube.com/channel/UCy7bv_q68tD4gqvvehsuvvA\n\nCopyright Disclaimer Under Section 107 of the Copyright Act 1976, Allowance is made for the \"fair use\" for the purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by the copyright statute that might others be infringing. Non-profit, educational or personal use tips the balance in favor of fair use. \n\nI do not own any of the clips in this video all credit to the rightful owners. It is used only for entertainment purposes. \n\nKindly dont intiate a copyright strike😇. Consider it as a request. If you want me to remove this please contact : handpickedvidz@gmail.com\n\nThis video is edited under by Fair use law of YouTube. Credit to the owner of the images, video clips.\n\nThe Lion King Full Movie,Latest Movie 2019,Timon and Pumbaa,Mufasa,Timon,Scar,John Oliver,Nala,Simba,James Earl Jones,Beyonce Knowles-Carter,The Lion King,Disney,Jon Favreau,Disney Film,Beyonce,Donald Glover,Seth Rogen,Pumbaa,Chiwetel Ejiofor,Disney Movie,Carmen,Lion,Ingonyama,Soundtrack,carmen twillie circle of life,Walt,King,Twillie,Circle,Lebo,\nlion king, \nlion king full movie, \nlion king songs, \nlion king movie\nlion guard, \nlion king full movie in hindi, \nlion king full movie in hindi, \nlion roar, \nthe lion king full movie,\nthe lion king songs,\nthe lion king 2,\nthe lion king hakuna matata,\nthe lion king be prepared,\nthe lion king movie,\nthe lion king ending,\nthe lion king animation,\nthe lion king animated storybook,\nthe lion king activity center,\nthe lion king argument,\na wimoweh the lion king,\nthe lion king bloopers,\nThe lion king best scenes, \nThe lion king fight\nThe lion king climax, \nthe lion king beginning,\nthe lion king circle of life,\nthe lion king cast,\nthe lion king deleted scenes,\nthe lion king disney,\nthe lion king disney the lion king,\nthe lion king ending scene,\nthe lion king english,\nthe lion king english full movie,\nthe lion king final battle,\nthe lion king full movie 2019,\nthe lion king family tree,\nthe lion king full movie in english,\nthe lion king full movie hindi,\nthe lion king movie,the lion king 2019,the lion king scene,lion king,lion king hd,movies,entertainment,the lion king simba,simba,lion king 2019,lion king movie 2019,lion king movie,james earl jones,mufasa,the lion king,scar,mufasa and scar,mufasa death,mufasa rescue simba,scar kills mufasa,singapore, \nlion king cartoon,  the lion king full movie in telugu, disney the lion king, \ndisney the lion king full movie in hindi, \nthe lion king full movie in tamil, the lion king movie, the lion king trailer, \nthe lion king songs, the lion oing, the lion king full movie,\nnew english movie 2020,\nnew english movie hindi dubbed,\nnew english movie in hindi,\nnew english movie trailer,\nnew english movies 2019,\nnew english movie hindi dubbed 2020,\nnew english movies 2020 full movie,\nnew english movie action,\nnew english movie with subtitles,\nnew english movie action 2020,\nnew english movie aladdin,\nnew english movie avengers,\nnew english movie all,\nnew english movie adventure,\nnew english movie animation,\nnew english movie avengers infinity war 2019,\nnew english movie bangla,\nnew english movie by rock,\nnew english movie bloodshot,\nnew english movie bhoot,\nnew english movie cartoon,\nnew english movie comedy,\nnew english movie cartoon 2020,\nnew english movie china,\nnew english movie chinese,\nnew english movie channel,\nnew english movie clips, \n\n#newenglishmovies2019\n#englishmoviebangladubbed #englishmovies2019 #englishmovie2019 #englishmovieinhindi #englishmoviesinhindi #englishmoviesdubbedinhindi #englishmovietohindi #englishmovieconvertinurdu #englishmovieconvertinhindi #englishmovieexplainedintamil #englishmoviereview\n#lionkingonice #lionkingdom #lionkingtrailerhindi #lionkingmovies #lionkingreview #lionkingmusic #lionkinglookalike #lionkinghindi  #lionkinghinditrailer #lionkinghd #lionkingmakeup  #lionkingstory # #lionkingtamil full movie #lionkingyt #lionking2019\n#thelionkingmovie #thelionkinghindi #thelionking song #thelionkingfullmovie #thelionkingth #thelionking2019 hindi #thelionkingfullmoviehindi #thelionking1994 #thelionkingboxofficecollection #thelionkingbgm #thelionkingfullmovie2019 #thelionkingfamilytree #thelionkingfor #thelionkinghindisoundtrack #thelionkinghollywood #thelionkinginreallife #thelionkinglive #thelionkingmultilanguage #thelionkingmakeup #thelionkingmoviehindi #thelionkingonstargold #thelionkingreanimated #thelionkingreview #thelionkingsoundtrack #thelionkingstory #thelionkingtrailer #thelionkingtelugu #thelionkingtamil2019 #thelionkingthegift #thelionkingtamil #thelionkingtrailerfunny #thelionkingteaser #thelionking2019 in english #thelionking2019 simba #thelionking2019trailer #thelionking2019 #thelionking2019fullmovie #thelionking2019fullmovie hindi #thelionking2019review",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/O-PWDB9uF_g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/O-PWDB9uF_g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/O-PWDB9uF_g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Saurav Chaudhary",
+        "playlistId": "PLP2UhtvBy-C0o_hl4SS7hvgy2HDrwRUp5",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "O-PWDB9uF_g"
+        }
+      }
     }
   ]
     },
