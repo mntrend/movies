@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Aaj Tak",
+    "image": "https://yt3.ggpht.com/a/AATXAJwmfCeDDPPNpbaoc6-2Ch67oGKgJw5Mm8yle5S0eBA=s88-c-k-c0xffffffff-no-rj-mo",
+    "url": "https://www.youtube.com/watch?v=emCd4fr93rs"
+  },
+  {
+    "id": 2,
+    "title": "SKY NEWS",
+    "image": "https://yt3.ggpht.com/a/AATXAJzHMjrxBG0TA7AU1HoATeM9DZkmXtb-bmSTidOPL3Q=s88-c-k-c0xffffffff-no-rj-mo",
+    "url": "https://www.youtube.com/watch?v=9Auq9mYxFEEs"
+  },
+  {
+    "id": 3,
+    "title": "NDTV INDIA",
+    "image": "https://yt3.ggpht.com/a/AATXAJw7N4gwoL1itbKGjy3rpMGzZoB6Y4DlyJNO61VFkw=s88-c-k-c0xffffffff-no-rj-mo",
+    "url": "https://www.youtube.com/watch?v=l9ViEIip9q4"
+  },
+  {
+    "id": 4,
+    "title": "ABC NEWS",
+    "image": "https://yt3.ggpht.com/a/AATXAJxyFd9xgCz2yhfoLrEP4t8tiuI55dY7qHUqYQ5KxNc=s88-c-k-c0xffffffff-no-rj-mo",
+    "url": "https://www.youtube.com/watch?v=w_Ma8oQLmSM"
+  },
+  {
+    "id": 5,
+    "title": "DW NEWS",
+    "image": "https://yt3.ggpht.com/a/AATXAJy6u26cYajLatOq9eGkc9g3L0U9OacCoT0FHTBslfU=s88-c-k-c0xffffffff-no-rj-mo",
+    "url": "https://www.youtube.com/watch?v=NvqKZHpKs-g"
+  },
+  {
+    "id": 6,
+    "title": "CNA NEWS",
+    "image": "https://yt3.ggpht.com/a/AATXAJzhLJ0OdCtS0Bfp8OU5lyvRhIx_a5wPAgqXL81vtA=s88-c-k-c0xffffffff-no-rj-mo",
+    "url": "https://www.youtube.com/watch?v=XWq5kBlakcQ"
+  }
+]
